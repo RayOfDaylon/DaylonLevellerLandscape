@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DaylonLevellerLandscape",
+	"Description": "Import/export support for Daylon Leveller heightfield documents",
+	"Category": "Other",
+	"CreatedBy": "Daylon Graphics Ltd.",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+  "Modules": [
+      {
+        "Name": "DaylonLevellerLandscape",
+        "Type": "Editor",
+        "LoadingPhase": "PostEngineInit"
+      }
+  ]
+}
