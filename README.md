@@ -25,23 +25,23 @@ extract it to your Plugins folder (but rename it to "DaylonLevellerLandscape" be
 Github will name it "DaylonLevellerLandscape-main"). In any case, your project should have
 this directory structure:
 
-YourUEProject
-    YourUEProject.uproject
-	YourUEProject.sln (if using Visual Studio)
-	(probably some other files and folders)
-    Binaries
-	Content
-	Source
-	Plugins
-	    DaylonLevellerLandscape
-			DaylonLevellerLandscape.uplugin
-		    Content
-			Resources
-			Source
-		        DaylonLevellerLandscape
-				    Private
-					Public
-					DaylonLevellerLandscape.Build.cs
+	YourUEProject
+		YourUEProject.uproject
+		YourUEProject.sln (if using Visual Studio)
+		(probably some other files and folders)
+		Binaries
+		Content
+		Source
+		Plugins
+			DaylonLevellerLandscape
+				DaylonLevellerLandscape.uplugin
+				Content
+				Resources
+				Source
+					DaylonLevellerLandscape
+						Private
+						Public
+						DaylonLevellerLandscape.Build.cs
 					
 If using Windows, right-click the .uproject file and choose "Generate Visual Studio project files".
 For other platforms, follow their steps for regenerating project files.
@@ -68,4 +68,4 @@ To import a Leveller document to replace an existing Landscape actor, select the
 click Import inside the Landscape tab's panel, and choose the Import radio button. Check "Heightmap File" 
 and specify the Leveller document's filename in the field (or click the "..." button).
 
-More information is available on the Daylon Graphics website [here](www.daylongraphics.com/support/ue_interop.php).
+More information is available on the Daylon Graphics website [here](https://www.daylongraphics.com/support/ue_interop.php).
