@@ -3,7 +3,7 @@
 	"Version": 1,
 	"VersionName": "1.0",
 	"FriendlyName": "DaylonLevellerLandscape",
-	"Description": "Import/export support for Daylon Leveller heightfield documents",
+	"Description": "Import support for Daylon Leveller heightfield documents",
 	"Category": "Other",
 	"CreatedBy": "Daylon Graphics Ltd.",
 	"CreatedByURL": "",
